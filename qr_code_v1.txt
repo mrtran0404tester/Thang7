@@ -12,9 +12,34 @@
     "linkmoregame":"https://play.google.com/store/apps/developer?id=Tien+Tran+Pro"
   }
 ,
-"games":{[
-{"LinkGame":"market://details?id=jkg.pushing.box", "LinkIcon":"https://lh3.googleusercontent.com/yfvWkvOE6-rSaJ4xKH5buGAQvmN7MFC1sIpilTbHD87s53y9qmu3Qwx8NVqJ3g9cGCg=w150"},
-{"LinkGame":"market://details?id=com.brain.physicspuzzles", "LinkIcon":"https://lh3.googleusercontent.com/ORaQlX0DN_vDpHXDrPlc-fhZNLiiMGSMSwOUBPDo-vprg4BUZm3GpZOqvXl8_848dA=w150"}
-]
+"game01":{
+  "LinkGame": "market://details?id=jkg.pushing.box",
+  "LinkIcon": "https://lh3.googleusercontent.com/yfvWkvOE6-rSaJ4xKH5buGAQvmN7MFC1sIpilTbHD87s53y9qmu3Qwx8NVqJ3g9cGCg=w150"
 }
+,
+"game02":{
+  "LinkGame": "market://details?id=com.brain.physicspuzzles",
+  "LinkIcon": "https://lh3.googleusercontent.com/ORaQlX0DN_vDpHXDrPlc-fhZNLiiMGSMSwOUBPDo-vprg4BUZm3GpZOqvXl8_848dA=w150"
+}
+,
+"game03":{
+  "LinkGame": "",
+  "LinkIcon": ""
+}
+,
+"game04":{
+  "LinkGame": "",
+  "LinkIcon": ""
+}
+,
+"game05":{
+  "LinkGame": "",
+  "LinkIcon": ""
+}
+,
+"game06":{
+  "LinkGame": "",
+  "LinkIcon": ""
+}
+
 }
